@@ -1,0 +1,9 @@
+tipo,id,nombre,categoria,precio,stock,rut_proveedor,rut_cliente,cantidad
+producto,1,Set Bloques Espaciales,Bloques,19990,15,12345678-5,,
+producto,2,Puzzle Madera Dragon,Puzzles,12990,8,98765432-1,,
+producto,3,Llavero Retro Gamer,Llaveros,2990,25,11222333-4,,
+producto,4,Juego de Mesa Mini,Juegos,15990,5,99888777-6,,
+producto,5,Peluche Totoro,Peluches,17990,10,13579135-9,,
+producto,6,Organizador Escritorio HP,Escritorio,8990,12,24682468-0,,
+venta,,,,,,,12345678-5,2
+venta,,,,,,,98765432-1,1

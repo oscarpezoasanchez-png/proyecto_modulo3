@@ -1,0 +1,29 @@
+Ejecucion de pruebas - Proyecto Modulo 3
+
+Categorias configuradas:
+- Bloques
+- Puzzles
+- Llaveros
+- Juegos
+- Peluches
+- Escritorio
+
+Productos cargados:
+1) Set Bloques Espaciales | Bloques | Stock inicial: 15
+2) Puzzle Madera Dragon | Puzzles | Stock inicial: 8
+3) Llavero Retro Gamer | Llaveros | Stock inicial: 25
+4) Juego de Mesa Mini | Juegos | Stock inicial: 5
+5) Peluche Totoro | Peluches | Stock inicial: 10
+6) Organizador Escritorio HP | Escritorio | Stock inicial: 12
+
+Ventas realizadas:
+- Cliente 12345678-5 compro 2 unidades de Set Bloques Espaciales
+  Stock restante: 13 | Total: $39980
+
+- Cliente 98765432-1 compro 1 unidad de Puzzle Madera Dragon
+  Stock restante: 7 | Total: $12990
+
+Resumen final:
+- Total productos: 6
+- Categorias distintas: Bloques, Puzzles, Llaveros, Juegos, Peluches, Escritorio
+- Stock total (recursivo): 72
